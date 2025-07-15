@@ -1,12 +1,4 @@
 {
-  "name": "lks-llm",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "next build",
-    "dev": "next dev",
-    "export": "next export",
-    "start": "next start"
-  },
   "dependencies": {
     "aws-amplify": "^6.15.3",
     "next": "^15.4.1",
